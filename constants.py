@@ -1,0 +1,2 @@
+KEY_SIZE_BYTES = 32  # 256 bits
+RANDOM_BYTES = 4
