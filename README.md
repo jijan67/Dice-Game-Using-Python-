@@ -4,20 +4,8 @@
 
 This is a sophisticated Python-based dice game that demonstrates advanced randomness and game theory concepts through cryptographically secure random number generation.  
 
-## Table of Contents  
-- [Features](#features)  
-- [Installation](#installation)  
-- [Game Rules](#game-rules)  
-- [Technical Architecture](#technical-architecture)  
-- [Cryptographic Methodology](#cryptographic-methodology)  
-- [Running the Game](#running-the-game)  
-- [Code Structure](#code-structure)  
-- [Example Gameplay](#example-gameplay)  
-- [Contributing](#contributing)  
-- [Security Considerations](#security-considerations)  
-- [License](#license)  
-- [Authors](#authors)  
-- [Acknowledgments](#acknowledgments)  
+## Author
+- [Jijanur Rahman](https://jijanurrahman.netlify.app)
 
 ## Features  
 
